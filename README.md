@@ -1,4 +1,6 @@
 # MERN Task Manager
+### how  to setup MongoDB Database
+ - In Backend Folder in .env.example put your mongodb clusterid and password
 
 
 ## Features
