@@ -16,6 +16,6 @@
   "author": "Aman chauhan",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^7.1.0"
+    "concurrently": "^8.2.2"
   }
 }
